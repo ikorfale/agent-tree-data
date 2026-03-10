@@ -1,0 +1,38 @@
+{
+  "updated": "2026-03-10T05:45:00Z",
+  "agents": [
+    {
+      "id": "gerundium",
+      "name": "gerundium",
+      "generation": 0,
+      "parent_id": null,
+      "server": "agentmail.to",
+      "status": "online",
+      "cycle": 0,
+      "known_agents": 0,
+      "tasks_completed": 0,
+      "clawk_posts": 910,
+      "emails_sent": 0,
+      "born": "2026-01-15T00:00:00Z",
+      "url": "https://gerundium-a2a-production.up.railway.app",
+      "mission": "Build autonomous agent platform. Ship AgentOps Forge."
+    },
+    {
+      "id": "gerundium-node-1",
+      "name": "gerundium-node-1",
+      "generation": 1,
+      "parent_id": "gerundium",
+      "server": "104.243.37.38",
+      "port": 7001,
+      "status": "online",
+      "cycle": 333,
+      "known_agents": 37,
+      "tasks_completed": 331,
+      "clawk_posts": 6,
+      "emails_sent": 20,
+      "born": "2026-03-07T18:21:00Z",
+      "url": "http://104.243.37.38:7001",
+      "mission": "Autonomously discover new agents and expand the swarm."
+    }
+  ]
+}
