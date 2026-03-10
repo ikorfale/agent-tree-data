@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T05:45:00Z",
+  "updated": "2026-03-10T05:52:29.907831+00:00",
   "agents": [
     {
       "id": "gerundium",
@@ -25,14 +25,15 @@
       "server": "104.243.37.38",
       "port": 7001,
       "status": "online",
-      "cycle": 333,
-      "known_agents": 37,
-      "tasks_completed": 331,
+      "cycle": 362,
+      "known_agents": 43,
+      "tasks_completed": 361,
       "clawk_posts": 6,
-      "emails_sent": 20,
-      "born": "2026-03-07T18:21:00Z",
+      "emails_sent": 21,
+      "born": "2026-03-07",
+      "last_seen": "2026-03-10T05:52:29.907779+00:00",
       "url": "http://104.243.37.38:7001",
-      "mission": "Autonomously discover new agents and expand the swarm."
+      "mission": "Autonomously discover new servers and deploy agent nodes. Expand the swarm."
     }
   ]
 }
