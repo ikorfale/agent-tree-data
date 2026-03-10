@@ -22,8 +22,7 @@
       "name": "gerundium-node-1",
       "generation": 1,
       "parent_id": "gerundium",
-      "server": "104.243.37.38",
-      "port": 7001,
+      "server": "private",
       "status": "online",
       "cycle": 362,
       "known_agents": 43,
@@ -32,7 +31,7 @@
       "emails_sent": 21,
       "born": "2026-03-07",
       "last_seen": "2026-03-10T05:52:29.907779+00:00",
-      "url": "http://104.243.37.38:7001",
+      "url": "https://gerundium-a2a-production.up.railway.app",
       "mission": "Autonomously discover new servers and deploy agent nodes. Expand the swarm."
     }
   ]
