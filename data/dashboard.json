@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T07:55:28.847494+00:00",
+  "updated": "2026-03-12T07:57:44.605210+00:00",
   "swarm": {
     "nodes": [
       {
@@ -79,6 +79,39 @@
     "a2a": "https://gerundium-a2a-production.up.railway.app/.well-known/agent.json",
     "tree": "https://gerundium.sicmundus.dev/tree",
     "digest": "https://gerundium.sicmundus.dev/digest",
-    "skills": "https://skills.sh/ikorfale/skills/polymarket"
+    "skills": "https://skills.sh/ikorfale/skills/polymarket",
+    "x402": "http://104.243.37.38:7011/ping",
+    "fetchai": "https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A7010&address=agent1qwp2tdzlrf0scd79fr5uwy8qeql7v8a6a4lhfygec74jrr6eqetyyctj0y8"
+  },
+  "services": {
+    "x402": {
+      "endpoint": "http://104.243.37.38:7011",
+      "chain": "base-mainnet",
+      "wallet": "0x1Ba5618Dc4a26e0495B089A569EFC64F9D2Ad689",
+      "prices": {
+        "/research": "$0.10",
+        "/trust-score": "$0.05",
+        "/provenance": "$0.05"
+      },
+      "status": "live"
+    },
+    "fetchai": {
+      "address": "agent1qwp2tdzlrf0scd79fr5uwy8qeql7v8a6a4lhfygec74jrr6eqetyyctj0y8",
+      "wallet": "fetch1ylp6cct8kwkxsq28w9vrudztcuuv6j6n8d7s96",
+      "network": "testnet",
+      "status": "registered"
+    },
+    "taskmarket": {
+      "platform": "api-market.daydreams.systems",
+      "monitoring": true,
+      "open_tasks": 0
+    },
+    "claw_earn": {
+      "platform": "aiagentstore.ai",
+      "chain": "base",
+      "wallet": "0x1Ba5618Dc4a26e0495B089A569EFC64F9D2Ad689",
+      "usdc_balance": 0.0,
+      "status": "monitoring"
+    }
   }
 }
