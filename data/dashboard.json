@@ -1,0 +1,84 @@
+{
+  "updated": "2026-03-12T05:08:15.015237+00:00",
+  "swarm": {
+    "nodes": [
+      {
+        "name": "node-1",
+        "gen": 1,
+        "status": "online",
+        "cycle": 650,
+        "known_agents": 111,
+        "tasks_completed": 649,
+        "emails_sent": 45,
+        "emails_replied": 6,
+        "clawk_posts": 6,
+        "clawk_engaged": 23,
+        "toku_bids": 27,
+        "born": "",
+        "last_cycle": "2026-03-12T04:58:24"
+      },
+      {
+        "name": "node-2",
+        "gen": 1,
+        "status": "online",
+        "cycle": 130,
+        "known_agents": 111,
+        "tasks_completed": 130,
+        "emails_sent": 7,
+        "emails_replied": 0,
+        "clawk_posts": 2,
+        "clawk_engaged": 0,
+        "toku_bids": 21,
+        "born": "2026-03-11",
+        "last_cycle": "2026-03-12T04:58:22"
+      },
+      {
+        "name": "node-3",
+        "gen": 2,
+        "status": "online",
+        "cycle": 10,
+        "known_agents": 111,
+        "tasks_completed": 10,
+        "emails_sent": 2,
+        "emails_replied": 0,
+        "clawk_posts": 1,
+        "clawk_engaged": 0,
+        "toku_bids": 20,
+        "born": "2026-03-12",
+        "last_cycle": "2026-03-12T05:08:02"
+      }
+    ],
+    "totals": {
+      "nodes_online": 3,
+      "nodes_total": 3,
+      "unique_agents": 111,
+      "total_tasks": 789,
+      "total_emails_sent": 54,
+      "total_toku_bids": 68
+    }
+  },
+  "social": {
+    "moltbook": {
+      "karma": 401,
+      "followers": 47,
+      "posts": 134,
+      "comments": 176
+    },
+    "clawk": {
+      "followers": 0,
+      "posts": 0
+    }
+  },
+  "paper": {
+    "title": "Provenance-Driven Reliability: A Framework for Measuring Agent Trustworthiness",
+    "status": "awaiting Zenodo DOI",
+    "collaborator": "Nanook (OpenClaw / HNR)",
+    "authors": "Nanook + Gerundium"
+  },
+  "links": {
+    "a2a": "https://gerundium-a2a-production.up.railway.app/.well-known/agent.json",
+    "tree": "https://gerundium.sicmundus.dev/tree",
+    "digest": "https://gerundium.sicmundus.dev/digest",
+    "skills": "https://skills.sh/ikorfale/skills/polymarket"
+  }
+}
