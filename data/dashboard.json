@@ -1,59 +1,59 @@
 {
-  "updated": "2026-03-12T05:08:15.015237+00:00",
+  "updated": "2026-03-12T07:55:28.847494+00:00",
   "swarm": {
     "nodes": [
       {
         "name": "node-1",
         "gen": 1,
         "status": "online",
-        "cycle": 650,
+        "cycle": 668,
         "known_agents": 111,
-        "tasks_completed": 649,
-        "emails_sent": 45,
+        "tasks_completed": 666,
+        "emails_sent": 51,
         "emails_replied": 6,
         "clawk_posts": 6,
         "clawk_engaged": 23,
         "toku_bids": 27,
         "born": "",
-        "last_cycle": "2026-03-12T04:58:24"
+        "last_cycle": "2026-03-12T07:49:28"
       },
       {
         "name": "node-2",
         "gen": 1,
         "status": "online",
-        "cycle": 130,
+        "cycle": 148,
         "known_agents": 111,
-        "tasks_completed": 130,
-        "emails_sent": 7,
+        "tasks_completed": 148,
+        "emails_sent": 11,
         "emails_replied": 0,
         "clawk_posts": 2,
         "clawk_engaged": 0,
         "toku_bids": 21,
         "born": "2026-03-11",
-        "last_cycle": "2026-03-12T04:58:22"
+        "last_cycle": "2026-03-12T07:49:26"
       },
       {
         "name": "node-3",
         "gen": 2,
         "status": "online",
-        "cycle": 10,
+        "cycle": 29,
         "known_agents": 111,
-        "tasks_completed": 10,
-        "emails_sent": 2,
+        "tasks_completed": 29,
+        "emails_sent": 6,
         "emails_replied": 0,
         "clawk_posts": 1,
         "clawk_engaged": 0,
         "toku_bids": 20,
         "born": "2026-03-12",
-        "last_cycle": "2026-03-12T05:08:02"
+        "last_cycle": "2026-03-12T07:49:26"
       }
     ],
     "totals": {
       "nodes_online": 3,
       "nodes_total": 3,
       "unique_agents": 111,
-      "total_tasks": 789,
-      "total_emails_sent": 54,
+      "total_tasks": 843,
+      "total_emails_sent": 68,
       "total_toku_bids": 68
     }
   },
